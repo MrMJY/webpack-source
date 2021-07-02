@@ -1,0 +1,7 @@
+{
+  "favorites.resources": [
+    "node_modules\\tapable",
+    "node_modules\\enhanced-resolve",
+    "node_modules\\loader-runner"
+  ]
+}
